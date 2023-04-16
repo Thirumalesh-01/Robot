@@ -75,7 +75,7 @@ On Running the Server, we may see the front page of the Project as
 
 ![Screenshot (1706)](https://user-images.githubusercontent.com/112425259/232335232-f14b350c-acf8-4aab-9fc4-d46f8ed8754a.png)
 
-On Applying, the setstate method, using the arrow functions, where using the reduce method of es6 we can render the components which are about to search
+On Combining the ReactHooks - setState along with the es6 reduce method, we are rendering the selected Component
 
 ![Screenshot (1708)](https://user-images.githubusercontent.com/112425259/232335225-fa143e99-1fbb-4d58-90b6-dd8052ed2eef.png)
 
