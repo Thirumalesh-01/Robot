@@ -1,0 +1,11 @@
+.cardstyler{
+    width: 00px;
+    height:400px;
+    /* border: 3.5px solid green; */
+    padding: 5px 12px;
+    margin: 5px 12px;
+}
+
+.h12 {
+    font-family:'Times New Roman', Times, serif;
+}

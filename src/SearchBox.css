@@ -1,0 +1,14 @@
+.button {
+  background: linear-gradient(to left, rgb(243, 240, 239) 0%, rgb(246, 240, 189) 100%); /* Set background color */
+    border-radius: 13px; 
+    border: linear-gradient(to left, rgb(204, 110, 16) 0%, rgb(185, 181, 146) 100%);
+    border-color: linear-gradient(to left, rgb(204, 110, 16) 0%, rgb(185, 181, 146) 100%);/* Remove border */
+    color: rgb(17, 15, 15); /* Set text color */
+    padding: 10px 12px; /* Set padding */
+    text-align: center; /* Center text */
+    text-decoration: none; /* Remove underline */
+    display: inline-block; /* Display as inline-block */
+    font-size: 20px; /* Set font size */
+    margin: 4px 2px; /* Set margin */
+    cursor: pointer; /* Change cursor style on hover */
+  }
