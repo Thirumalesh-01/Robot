@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+A Overview of the Project,
+On Running the Server, we may see the front page of the Project as 
+![Screenshot (1705)](https://user-images.githubusercontent.com/112425259/232335167-8a405b69-5d72-4694-8f26-a6de922cdddb.png)
+
+![Screenshot (1706)](https://user-images.githubusercontent.com/112425259/232335232-f14b350c-acf8-4aab-9fc4-d46f8ed8754a.png)
+
+On Applying, the setstate method, using the arrow functions, where using the reduce method of es6 we can render the components which are about to search
+
+![Screenshot (1708)](https://user-images.githubusercontent.com/112425259/232335225-fa143e99-1fbb-4d58-90b6-dd8052ed2eef.png)
+
